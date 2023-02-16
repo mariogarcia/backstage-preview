@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-preview
+  annotations:
+    github.com/project-slug: mariogarcia/backstage-preview
+spec:
+  type: other
+  lifecycle: unknown
