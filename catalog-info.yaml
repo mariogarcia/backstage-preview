@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-preview
+  description: A sample application to check how Spotify's Backstage works
   annotations:
     github.com/project-slug: mariogarcia/backstage-preview
     backstage.io/techdocs-ref: dir:.
