@@ -1,0 +1,7 @@
+site_name: 'backstage-preview'
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
