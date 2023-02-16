@@ -4,7 +4,7 @@ metadata:
   name: backstage-preview
   annotations:
     github.com/project-slug: mariogarcia/backstage-preview
-    backstage.io/techdocs-ref: .
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: website
   lifecycle: production
